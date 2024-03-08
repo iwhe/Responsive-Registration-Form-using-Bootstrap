@@ -3,7 +3,7 @@
 
 <h4>For Large Screen(Desktop):</h4>
 
-<img src="[./screenshots/Registration-form.png](https://github.com/iwhe/Responsive-Registration-Form-using-Bootstrap/blob/main/screenshots/Registration%20form.png?raw=true)https://github.com/iwhe/Responsive-Registration-Form-using-Bootstrap/blob/main/screenshots/Registration%20form.png?raw=true">
+<img src="https://github.com/iwhe/Responsive-Registration-Form-using-Bootstrap/blob/main/screenshots/Registration%20form.png?raw=true">
 
 <img src="https://github.com/iwhe/Responsive-Registration-Form-using-Bootstrap/blob/main/screenshots/login-Student-big-screen.png?raw=true">
 
