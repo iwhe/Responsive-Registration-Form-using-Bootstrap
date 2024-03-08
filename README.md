@@ -1,7 +1,7 @@
-<h3>List of images to display its showcase and execution:
-</h3>
+<h1 style="color:cyan";>List of images to display its showcase and execution:
+</h1>
 
-<h4>For Large Screen(Desktop):</h4>
+<h2 style="color:blue;">For Large Screen(Desktop):</h2>
 
 <img src="https://github.com/iwhe/Responsive-Registration-Form-using-Bootstrap/blob/main/screenshots/Registration%20form.png?raw=true">
 
@@ -9,7 +9,7 @@
 
 <img src="https://github.com/iwhe/Responsive-Registration-Form-using-Bootstrap/blob/main/screenshots/login-employer-big-screen.png?raw=true">
 
-<h4>For Small Screen(Mobile)</h4>
+<h2 style="color:blue;">For Small Screen(Mobile)</h2>
 
 <img src="https://github.com/iwhe/Responsive-Registration-Form-using-Bootstrap/blob/main/screenshots/Regi-form-student-small-screen.png?raw=true">
 
